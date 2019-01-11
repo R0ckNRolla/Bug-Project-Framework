@@ -67,17 +67,17 @@ Bug-Project-Framework
 ![One](https://github.com/Fplyth0ner-Combie/Bug-Project-Framework/blob/master/images/1.jpg)
 ![Two](https://github.com/Fplyth0ner-Combie/Bug-Project-Framework/blob/master/images/2.jpg)
 
-[+]exploit编写：
+[+]самостоятельное добавление эксплоитов：
 ----------------
-	*框架自带编写记事本，可参考BPF语法快速编写exploit，详情请参考BPF IDE提示的语法。
+	*Фреймворк поставляется с блокнотом. Вы можете быстро написать эксплойт со ссылкой на синтаксис BPF. Для получения дополнительной информации см. Синтаксис BPF IDE.
 
 
-[+]感谢：
+[+]Благодарности：
 ---------------
 	Metasploit - Rapid7
 	NetCat - Hobbit
 
-[+]铭恩：
+[+]Благодарности：
 -----------
 	Computer - John von Neumann
 	Internet - Tim Berners-Lee
@@ -93,7 +93,7 @@ Bug-Project-Framework
 	Google - Larry Page
 
 
-[+]特别感谢：
+[+]Отдельное спасибо：
 -------------
 	Tencent - 马化腾
 	E - 吴涛
@@ -101,6 +101,7 @@ Bug-Project-Framework
 ---------------------------------
 2017年4月12日工程  -- Fplyth0ner
 
-欢迎大家积极参与模块编写计划！
+Приветствую всех, кто активно участвует в плане написания модуля！
 
 ---------------------------------
+Перевод осуществлен с помощью ImTranslator.
